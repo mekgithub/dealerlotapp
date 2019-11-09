@@ -1,0 +1,25 @@
+/*.iml
+/*.ipr
+/*.iws
+/libpeerconnection.log
+/test.log
+/.idea/
+/target/
+/test-output/
+/yarn-error.log
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
